@@ -4,6 +4,17 @@ This portfolio contains all of the supervised and unsupervised Machine Learning 
 
 This README will give brief notes on my understanding of the topic discussed in each section and direct links to each of the Python files that contain both code and inline notes.
 
+## Dependencies (Ubuntu)
+. python-tk
+. pip
+. pandas
+. numpy
+. matplotlib
+. sklearn
+. scipy
+. Keras
+. Tensorflow
+
 ## Main Sections
 
 1. [Machine Learning Basics](#machine-learning-basics)
@@ -67,6 +78,12 @@ This README will give brief notes on my understanding of the topic discussed in 
 
 --- Future Studies ---
 
-
-
 **Disclaimer:** This code is only my academic work product as a result of taking courses from the [Super Data Science](https://www.superdatascience.com/) team, and as such is their intellectual property.
+
+## IDEs
+### Spyder
+. `sudo apt-get install python-pyqt5 python-pyqt5.qtsvg python-pyqt5.qtwebkit`
+. `sudo pip install spyder`
+
+### Jupyter
+. `sudo apt-get install jupyter`
